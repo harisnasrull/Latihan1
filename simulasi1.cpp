@@ -18,9 +18,10 @@ void cekJumlahKata(){
 
 }
 
-void cekKalimat(){
+int cekKalimat(){
 	bool kalimat;
 
+	return kalimat;
 }
 
 int main()
