@@ -3,6 +3,7 @@ using namespace std;
 
 int cekBilangan(){
 	bool bil;
+	char str[] ="arf1612200prbdi";
 
 	return bil;
 }
@@ -10,7 +11,16 @@ int cekBilangan(){
 void cekGanjilGenap(){
 	if (cekBilangan)
 	{
-		
+		int bil;
+	cout<<"Masukan Bilangan : ";
+	cin>>bil;
+	cout<<endl;
+
+	if (bil%2==0){
+		cout<<bil<<" Adalah bilangan genap"<<endl;
+	}else {
+		cout<<bil<<" Adalah bilangan ganjil"<<endl;	
+	}
 	}
 }
 
@@ -26,6 +36,7 @@ int cekKalimat(){
 
 int main()
 {
+	
 	
 	return 0;
 }
