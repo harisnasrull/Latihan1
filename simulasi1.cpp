@@ -1,9 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void cekBilangan(){
+int cekBilangan(){
 	bool bil;
 
+	return bil;
 }
 
 void cekGanjilGenap(){
