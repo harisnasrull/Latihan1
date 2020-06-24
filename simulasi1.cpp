@@ -52,5 +52,5 @@ int main()
 {
 	
 	
-	return 0;
+	udah ini riris;
 }
