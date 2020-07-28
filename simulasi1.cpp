@@ -51,6 +51,9 @@ int cekKalimat(){
 int main()
 {
 	
+	cout<<"Masukkan data :";
 	
 	udah ini riris;
+	return 0;
 }
+
