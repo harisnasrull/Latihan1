@@ -7,11 +7,10 @@ int cekBilangan(){
 	
 	cout<<"Yang merupakan Bilangan : "<<endl;
 	for (int i=0; i<strlen(str); i++)
-	{
+	(
 	if(bil(str[i]))
 		cout<< str[i]< " ";
 	return bil;
-	}
 }
 
 void cekGanjilGenap(){
@@ -53,5 +52,8 @@ int main()
 {
 	
 	cout<<"Masukkan data :";
+	
+	udah ini riris;
 	return 0;
 }
+
