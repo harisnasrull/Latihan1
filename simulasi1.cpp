@@ -3,7 +3,7 @@ using namespace std;
 
 int cekBilangan(){
 	bool bil;
-	char str[] ="arf1612200prbdi";
+	char str[] ="5555555";
 	
 	cout<<"Yang merupakan Bilangan : "<<endl;
 	for (int i=0; i<strlen(str); i++)
