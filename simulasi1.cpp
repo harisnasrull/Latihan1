@@ -13,9 +13,9 @@ int cekBilangan(){
 	if(bil(str[i]))
 		cout<< str[i]< " ";
 	return bil;
-}
+} asdasdasdasda
 
-void cekGanjilGenap(){
+ C void 19 (){
 	if (cekBilangan)
 	{
 		int bil;
