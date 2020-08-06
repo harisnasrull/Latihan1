@@ -3,7 +3,9 @@ using namespace std;
 
 int cekBilangan(){
 	bool bil;
+
 	char str[] ="RIRISNIKAH202022";
+
 	
 	cout<<"Yang merupakan Bilangan : "<<endl;
 	for (int i=0; i<strlen(str); i++)
