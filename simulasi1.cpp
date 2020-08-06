@@ -13,7 +13,7 @@ int cekBilangan(){
 	if(bil(str[i]))
 		cout<< str[i]< " ";
 	return bil;
-}
+cout<<"test line 16"}
 
 void cekGanjilGenap(){
 	if (cekBilangan)
