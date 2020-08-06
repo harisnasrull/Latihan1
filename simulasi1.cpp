@@ -13,7 +13,7 @@ int cekBilangan(){
 	return bil;
 }
 
-void cekGanjilGenap(){
+ C void 19 (){
 	if (cekBilangan)
 	{
 		int bil;
