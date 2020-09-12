@@ -6,4 +6,6 @@ int main()
 	cout<<"Ini Kalimat ke 2"<<endl;
 	cout<<"Ini Kalimat ke 3"<<endl;
 	return 0;
+	cout<<"Ini Kalimat ke 4"<<endl;
+	cout<<"Ini Kalimat ke 5"<<endl;
 }
